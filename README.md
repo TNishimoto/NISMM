@@ -12,3 +12,5 @@ This is the experimental implementation of the method of finding set-maximal mat
   2. Preprocess a dictionary with preprocess.cc (it parses vcf)
   3. Run server.cc
   4. Decrypt the result with client_decrypt.cc
+
+  Please modify THRESHOLD, LENGTH, minimum_lambda in constants.h before using those program. 
